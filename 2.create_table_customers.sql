@@ -5,6 +5,6 @@ CREATE TABLE `customers` (
     `email` varchar(255) NOT NULL,
     `password` varchar(255) NOT NULL,
     `phone_number` varchar(255) NOT NULL,
-    'created_at' TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY ('id')
 );

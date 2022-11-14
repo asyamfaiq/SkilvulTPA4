@@ -1,0 +1,1 @@
+UPDATE `product_categories` SET `id_category` = 1  WHERE `id` = 1; 

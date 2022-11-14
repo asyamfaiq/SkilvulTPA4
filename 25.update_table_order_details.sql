@@ -1,0 +1,1 @@
+UPDATE `order_details` SET `price` = 20.000 WHERE `id` = 1;

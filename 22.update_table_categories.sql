@@ -1,0 +1,1 @@
+UPDATE `categories` SET `name` = 'busana' WHERE `id` = 1;
